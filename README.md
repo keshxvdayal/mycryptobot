@@ -10,8 +10,8 @@ This project consists of three separate Telegram bots that fetch cryptocurrency 
 
 1.  **Clone the repository:**
     ```bash
-    git clone <repository-url>
-    cd <repository-directory>
+    git clone https://github.com/keshxvdayal/mycryptobot.git
+    cd mycryptobot
     ```
 
 2.  **Create and activate a virtual environment:**
